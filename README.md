@@ -1,4 +1,3 @@
-# CherryB
 Freyr/NEO87 Files
 
 ![Freyr](https://github.com/GHv4/CherryB/assets/108226982/b753951a-befa-49a5-8e7e-77c0c5825024)
